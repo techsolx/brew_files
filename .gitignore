@@ -1,0 +1,4 @@
+# always these ones
+.DS_Store
+
+Brewfile.lock.json
