@@ -1,0 +1,6 @@
+# Always this one!
+.DS_Store
+
+# repo specific files
+# https://github.com/Homebrew/homebrew-bundle?tab=readme-ov-file#versions-and-lockfiles
+Brewfile.lock.json
